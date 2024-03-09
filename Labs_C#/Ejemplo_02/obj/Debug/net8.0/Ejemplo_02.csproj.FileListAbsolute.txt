@@ -1,0 +1,15 @@
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\bin\Debug\net8.0\Ejemplo_02.exe
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\bin\Debug\net8.0\Ejemplo_02.deps.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\bin\Debug\net8.0\Ejemplo_02.runtimeconfig.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\bin\Debug\net8.0\Ejemplo_02.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\bin\Debug\net8.0\Ejemplo_02.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\obj\Debug\net8.0\Ejemplo_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\obj\Debug\net8.0\Ejemplo_02.AssemblyInfoInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\obj\Debug\net8.0\Ejemplo_02.AssemblyInfo.cs
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\obj\Debug\net8.0\Ejemplo_02.csproj.CoreCompileInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\obj\Debug\net8.0\Ejemplo_02.sourcelink.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\obj\Debug\net8.0\Ejemplo_02.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\obj\Debug\net8.0\refint\Ejemplo_02.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\obj\Debug\net8.0\Ejemplo_02.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\obj\Debug\net8.0\Ejemplo_02.genruntimeconfig.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo_02\obj\Debug\net8.0\ref\Ejemplo_02.dll
