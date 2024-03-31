@@ -1,0 +1,5 @@
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\SeleccionPositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\SeleccionPositivoNegativo.AssemblyInfoInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\SeleccionPositivoNegativo.AssemblyInfo.cs
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\SeleccionPositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\SeleccionPositivoNegativo.sourcelink.json
