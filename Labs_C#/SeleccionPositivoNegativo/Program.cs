@@ -1,15 +1,23 @@
-﻿using system;
+﻿using System;
+
 namespace SeleccionPositivoNegativo
-class program 
 {
-    static void main(string[] args)
+    internal class Program
     {
-        Console.Write("Introduce un numero:");
-        int numero = int.Parse(Console.ReadLine());
-        
-        if (numero > 0)
+        static void Main(string[] args)
         {
-            Console.WriteLine("El numero es positivio");
+            Console.Write("Introduce un numero:");
+            int numero = int.Parse(Console.ReadLine());
+        
+            if (numero > 0)
+            {
+                Console.WriteLine("El numero es positivio");
+            }
+
+            if (numero <= 0)
+            {
+                Console.WriteLine("El numero no es positivo");
+            }
         }
     }
 }

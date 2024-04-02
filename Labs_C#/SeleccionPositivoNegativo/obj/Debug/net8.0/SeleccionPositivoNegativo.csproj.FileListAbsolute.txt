@@ -3,3 +3,13 @@ C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Progr
 C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\SeleccionPositivoNegativo.AssemblyInfo.cs
 C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\SeleccionPositivoNegativo.csproj.CoreCompileInputs.cache
 C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\SeleccionPositivoNegativo.sourcelink.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\bin\Debug\net8.0\SeleccionPositivoNegativo.exe
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\bin\Debug\net8.0\SeleccionPositivoNegativo.deps.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\bin\Debug\net8.0\SeleccionPositivoNegativo.runtimeconfig.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\bin\Debug\net8.0\SeleccionPositivoNegativo.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\bin\Debug\net8.0\SeleccionPositivoNegativo.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\SeleccionPositivoNegativo.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\refint\SeleccionPositivoNegativo.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\SeleccionPositivoNegativo.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\SeleccionPositivoNegativo.genruntimeconfig.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\SeleccionPositivoNegativo\obj\Debug\net8.0\ref\SeleccionPositivoNegativo.dll

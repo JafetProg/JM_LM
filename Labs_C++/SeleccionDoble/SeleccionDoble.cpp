@@ -14,7 +14,7 @@ int main()
         << endl;
     }
 
-    if (yearsWorked < 5)
+    else 
     {
         cout << " The Employee is not eligible for a bonus."
         << endl;

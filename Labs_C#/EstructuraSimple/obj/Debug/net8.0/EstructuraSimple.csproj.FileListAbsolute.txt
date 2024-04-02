@@ -1,0 +1,15 @@
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\bin\Debug\net8.0\EstructuraSimple.exe
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\bin\Debug\net8.0\EstructuraSimple.deps.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\bin\Debug\net8.0\EstructuraSimple.runtimeconfig.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\bin\Debug\net8.0\EstructuraSimple.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\bin\Debug\net8.0\EstructuraSimple.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\obj\Debug\net8.0\EstructuraSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\obj\Debug\net8.0\EstructuraSimple.AssemblyInfoInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\obj\Debug\net8.0\EstructuraSimple.AssemblyInfo.cs
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\obj\Debug\net8.0\EstructuraSimple.csproj.CoreCompileInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\obj\Debug\net8.0\EstructuraSimple.sourcelink.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\obj\Debug\net8.0\EstructuraSimple.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\obj\Debug\net8.0\refint\EstructuraSimple.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\obj\Debug\net8.0\EstructuraSimple.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\obj\Debug\net8.0\EstructuraSimple.genruntimeconfig.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\EstructuraSimple\obj\Debug\net8.0\ref\EstructuraSimple.dll
