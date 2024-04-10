@@ -1,0 +1,15 @@
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\bin\Debug\net8.0\Ejemplo1CicloWhile.exe
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\bin\Debug\net8.0\Ejemplo1CicloWhile.deps.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\bin\Debug\net8.0\Ejemplo1CicloWhile.runtimeconfig.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\bin\Debug\net8.0\Ejemplo1CicloWhile.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\bin\Debug\net8.0\Ejemplo1CicloWhile.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\obj\Debug\net8.0\Ejemplo1CicloWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\obj\Debug\net8.0\Ejemplo1CicloWhile.AssemblyInfoInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\obj\Debug\net8.0\Ejemplo1CicloWhile.AssemblyInfo.cs
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\obj\Debug\net8.0\Ejemplo1CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\obj\Debug\net8.0\Ejemplo1CicloWhile.sourcelink.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\obj\Debug\net8.0\Ejemplo1CicloWhile.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\obj\Debug\net8.0\refint\Ejemplo1CicloWhile.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\obj\Debug\net8.0\Ejemplo1CicloWhile.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\obj\Debug\net8.0\Ejemplo1CicloWhile.genruntimeconfig.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Ejemplo1CicloWhile\obj\Debug\net8.0\ref\Ejemplo1CicloWhile.dll
