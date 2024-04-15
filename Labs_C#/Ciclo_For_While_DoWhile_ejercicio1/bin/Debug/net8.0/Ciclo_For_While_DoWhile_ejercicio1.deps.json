@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ciclo_For_While_DoWhile_ejercicio1/1.0.0": {
+        "runtime": {
+          "Ciclo_For_While_DoWhile_ejercicio1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ciclo_For_While_DoWhile_ejercicio1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
