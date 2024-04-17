@@ -1,0 +1,15 @@
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\obj\Debug\net8.0\Mod5LastAct_Problema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\obj\Debug\net8.0\Mod5LastAct_Problema2.AssemblyInfoInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\obj\Debug\net8.0\Mod5LastAct_Problema2.AssemblyInfo.cs
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\obj\Debug\net8.0\Mod5LastAct_Problema2.csproj.CoreCompileInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\obj\Debug\net8.0\Mod5LastAct_Problema2.sourcelink.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\bin\Debug\net8.0\Mod5LastAct_Problema2.exe
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\bin\Debug\net8.0\Mod5LastAct_Problema2.deps.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\bin\Debug\net8.0\Mod5LastAct_Problema2.runtimeconfig.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\bin\Debug\net8.0\Mod5LastAct_Problema2.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\bin\Debug\net8.0\Mod5LastAct_Problema2.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\obj\Debug\net8.0\Mod5LastAct_Problema2.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\obj\Debug\net8.0\refint\Mod5LastAct_Problema2.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\obj\Debug\net8.0\Mod5LastAct_Problema2.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\obj\Debug\net8.0\Mod5LastAct_Problema2.genruntimeconfig.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Mod5LastAct_Problema2\obj\Debug\net8.0\ref\Mod5LastAct_Problema2.dll
