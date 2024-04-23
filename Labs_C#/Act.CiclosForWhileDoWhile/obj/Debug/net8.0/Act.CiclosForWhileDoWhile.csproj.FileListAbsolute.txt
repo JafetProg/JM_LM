@@ -1,0 +1,15 @@
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\bin\Debug\net8.0\Act.CiclosForWhileDoWhile.exe
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\bin\Debug\net8.0\Act.CiclosForWhileDoWhile.deps.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\bin\Debug\net8.0\Act.CiclosForWhileDoWhile.runtimeconfig.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\bin\Debug\net8.0\Act.CiclosForWhileDoWhile.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\bin\Debug\net8.0\Act.CiclosForWhileDoWhile.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\obj\Debug\net8.0\Act.CiclosForWhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\obj\Debug\net8.0\Act.CiclosForWhileDoWhile.AssemblyInfoInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\obj\Debug\net8.0\Act.CiclosForWhileDoWhile.AssemblyInfo.cs
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\obj\Debug\net8.0\Act.CiclosForWhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\obj\Debug\net8.0\Act.CiclosForWhileDoWhile.sourcelink.json
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\obj\Debug\net8.0\Act.CiclosForWhileDoWhile.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\obj\Debug\net8.0\refint\Act.CiclosForWhileDoWhile.dll
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\obj\Debug\net8.0\Act.CiclosForWhileDoWhile.pdb
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\obj\Debug\net8.0\Act.CiclosForWhileDoWhile.genruntimeconfig.cache
+C:\Users\jafet\OneDrive\Desktop\Inter\SchoolWork2024\Enero-Mayo\Structured Programming\GitHub+VisualStudio\Labs_C#\Act.CiclosForWhileDoWhile\obj\Debug\net8.0\ref\Act.CiclosForWhileDoWhile.dll
