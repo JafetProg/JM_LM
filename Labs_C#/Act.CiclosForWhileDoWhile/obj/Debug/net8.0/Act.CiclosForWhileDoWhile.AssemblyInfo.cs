@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Act.CiclosForWhileDoWhile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45f3fd0b7b654013f5ea1d5f5c52f8a6dc6f416b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f2f712719c26664b38b8d1ecadc7456a386f07f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Act.CiclosForWhileDoWhile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Act.CiclosForWhileDoWhile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
