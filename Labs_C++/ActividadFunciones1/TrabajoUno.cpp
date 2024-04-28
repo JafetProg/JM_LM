@@ -10,7 +10,7 @@ void SueldoPagar(float a, float b)
         float SueldoFinal = total + 125;// Proceso matematico de suma de el total y el numero 125
 
         cout << "Has pasado mas de $1500 en ventas realizadas." << endl;
-        cout << "Eres elegible para un bono de 125$."<< endl;
+        cout << "Eres elegible para un bono de $125."<< endl;
         cout << "El Sueldo final obtenido por las ventas realizadas es: "<<"$"<<SueldoFinal;
         //Mostrar al vendedor lo que pasa si sus ventas realizadas pasan 1500 dollares
     }
